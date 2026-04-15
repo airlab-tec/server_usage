@@ -36,9 +36,10 @@ sudo tailscale up
 Open the Tailscale application.
 Sign in using your email address (different from your institutional email).
 
-During first login, skip the introduction:
+During first login, **skip the introduction**:
 
-<img width="668" height="386" alt="image" src="https://github.com/user-attachments/assets/deb299ef-5a18-4e08-9e44-3e9b41964209" />
+<img width="890" height="516" alt="bitmap" src="https://github.com/user-attachments/assets/68ad4e2a-cffc-46c5-bed8-45711bf86fa4" />
+
 
 Once connected, your device will appear in your Tailscale network in your admin console: https://login.tailscale.com/admin/machines
 
