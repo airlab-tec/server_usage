@@ -4,7 +4,7 @@ JupyterHub allows users to run Jupyter Notebooks directly on the AIR Lab server,
 
 ## 1. Prerequisites: Server Access via Tailscale
 Before using JupyterHub, you must have remote access to the AIR Lab server through Tailscale.
-If not done yet follow instruccions on [Connecting to the AirLab Remote Workstation Using Tailscale](https://github.com/airlab-tec/server_usage/blob/main/README.md)
+If not done yet follow instruccions on [Connecting to the AirLab Remote Workstation Using Tailscale](https://github.com/airlab-tec/server_usage/blob/main/Tailscale.md)
 
 ## 2. Connecting to the AIR Lab JupyterHub
 After setting up Tailscale, you can access the JupyterHub interface using the following address:
