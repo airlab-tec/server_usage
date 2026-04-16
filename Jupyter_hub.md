@@ -8,7 +8,7 @@ If not done yet follow instruccions on [Connecting to the AirLab Remote Workstat
 
 ## 2. Connecting to the AIR Lab JupyterHub
 After setting up Tailscale, you can access the JupyterHub interface using the following address:
-URL:  [airlabstation1.tail9513fa.ts.net](airlabstation1.tail9513fa.ts.net)
+URL:  https://airlabstation.tail9513fa.ts.net
 	
 1. Open a web browser and navigate to the above URL.
      <img width="1457" height="706" alt="image" src="https://github.com/user-attachments/assets/9575a626-e231-4b69-afe0-7eb584715f92" />
